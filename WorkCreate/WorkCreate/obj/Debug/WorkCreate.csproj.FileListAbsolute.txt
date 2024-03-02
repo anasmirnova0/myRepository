@@ -1,0 +1,16 @@
+C:\Users\Гость.B305-13.002\Desktop\WorkCreate\WorkCreate\bin\Debug\WorkCreate.exe.config
+C:\Users\Гость.B305-13.002\Desktop\WorkCreate\WorkCreate\bin\Debug\WorkCreate.exe
+C:\Users\Гость.B305-13.002\Desktop\WorkCreate\WorkCreate\bin\Debug\WorkCreate.pdb
+C:\Users\Гость.B305-13.002\Desktop\WorkCreate\WorkCreate\obj\Debug\WorkCreate.csproj.AssemblyReference.cache
+C:\Users\Гость.B305-13.002\Desktop\WorkCreate\WorkCreate\obj\Debug\WorkCreate.csproj.SuggestedBindingRedirects.cache
+C:\Users\Гость.B305-13.002\Desktop\WorkCreate\WorkCreate\obj\Debug\MainWindow.g.cs
+C:\Users\Гость.B305-13.002\Desktop\WorkCreate\WorkCreate\obj\Debug\App.g.cs
+C:\Users\Гость.B305-13.002\Desktop\WorkCreate\WorkCreate\obj\Debug\WorkCreate_MarkupCompile.cache
+C:\Users\Гость.B305-13.002\Desktop\WorkCreate\WorkCreate\obj\Debug\WorkCreate_MarkupCompile.lref
+C:\Users\Гость.B305-13.002\Desktop\WorkCreate\WorkCreate\obj\Debug\MainWindow.baml
+C:\Users\Гость.B305-13.002\Desktop\WorkCreate\WorkCreate\obj\Debug\WorkCreate.g.resources
+C:\Users\Гость.B305-13.002\Desktop\WorkCreate\WorkCreate\obj\Debug\WorkCreate.Properties.Resources.resources
+C:\Users\Гость.B305-13.002\Desktop\WorkCreate\WorkCreate\obj\Debug\WorkCreate.csproj.GenerateResource.cache
+C:\Users\Гость.B305-13.002\Desktop\WorkCreate\WorkCreate\obj\Debug\WorkCreate.csproj.CoreCompileInputs.cache
+C:\Users\Гость.B305-13.002\Desktop\WorkCreate\WorkCreate\obj\Debug\WorkCreate.exe
+C:\Users\Гость.B305-13.002\Desktop\WorkCreate\WorkCreate\obj\Debug\WorkCreate.pdb
